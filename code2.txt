@@ -1,0 +1,13 @@
+package onlinebanking;
+
+import java.sql.SQLException;
+
+public class Bank {
+
+    public static void main(String args[]) throws ClassNotFoundException, SQLException{
+
+    demo obj = new demo();
+
+    }
+
+}
